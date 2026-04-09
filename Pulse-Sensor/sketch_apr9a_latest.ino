@@ -3,10 +3,10 @@
 #include <ESP8266WiFi.h>
 
 // ======= Cloud and WiFi credentials =======
-const char DEVICE_LOGIN_NAME[]  = "82d26194-69b0-4199-ae68-53d4e739aad1";
-const char SSID[]               = "Oneplusnord";
-const char PASS[]               = "prince123";
-const char DEVICE_KEY[]         = "bO9r8s07V6Sf3LTkNd@!bbjmS";
+const char DEVICE_LOGIN_NAME[]  = "DEVICELOGINNAME";
+const char SSID[]               = "NetworkSSID(name)";
+const char PASS[]               = "Network-password";
+const char DEVICE_KEY[]         = "SECRETKEY";
 
 // ======= Cloud Variable =======
 CloudHeartRate heart_rate;
