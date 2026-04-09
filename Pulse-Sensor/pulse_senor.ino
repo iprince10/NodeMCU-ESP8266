@@ -16,7 +16,7 @@ const int pulsePin = A0;
 int pulseValue = 0;
 
 // ======= Heartbeat Logic =======
-int threshold = 550;     // Adjust after testing
+int threshold = 550; 
 int lastState = 0;
 
 // ======= Timing =======
