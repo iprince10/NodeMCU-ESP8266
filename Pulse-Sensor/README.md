@@ -48,6 +48,12 @@ Ensure proper power supply and stable connections to avoid erroneous readings.
 4. **Monitor Heart Rate**:
    - Once the ESP8266 is connected, you can view real-time heart rate data in the Arduino IoT Cloud dashboard.
    - You can also open the Serial Monitor to observe the BPM values locally.
+  
+## Working Image
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/Pulse-Sensor/Pulse_Sensor_Image.jpeg" width="400">
+</p>
 
 ## Applications
 - **Health Monitoring**: Real-time heart rate tracking for health applications.
