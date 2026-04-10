@@ -51,10 +51,17 @@ Ensure proper power supply and stable connections to avoid erroneous readings.
   
 ## Working Image
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/Pulse-Sensor/Pulse_Sensor_Image.jpeg" width="400">
-</p>
-
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/Pulse-Sensor/Pulse_Sensor_Image.jpeg" width="400">
+    </td>
+    <td align="right">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/Pulse-Sensor/Working_image.png" width="400">
+    </td>
+  </tr>
+</table>
+ 
 ## Applications
 - **Health Monitoring**: Real-time heart rate tracking for health applications.
 - **IoT Projects**: Integrating sensors and cloud services for remote health monitoring.
