@@ -1,7 +1,6 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
-int counter = 0;
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 void setup() {
@@ -22,6 +21,4 @@ void loop() {
 
   lcd.setCursor(0, 1);
   lcd.print("Temparature: ");
-
-  delay(500);
 }
