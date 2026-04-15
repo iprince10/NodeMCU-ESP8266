@@ -33,6 +33,14 @@ Make sure to connect the I2C module properly with the ESP8266 as shown above.
    - "Pulse Rate :" (on the first line)
    - "Temparature :" (on the second line)
 
+## Working Image
+
+<table>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/16x2_LCD_with_I2C_Module/16x2LCD_ESP8266.jpeg" width="400">
+    </td>
+</table>
+
 ## License
 
 This project is open-source. Feel free to modify and distribute it.
