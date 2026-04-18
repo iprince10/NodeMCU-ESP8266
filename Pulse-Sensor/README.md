@@ -54,7 +54,7 @@ Ensure proper power supply and stable connections to avoid erroneous readings.
 <table>
   <tr>
     <td align="left">
-      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/Pulse-Sensor/Pulse_Sensor_Image.jpeg" width="400">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/Pulse-Sensor/Pulse_Sensor.jpeg" width="400">
     </td>
     <td align="right">
       <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/Pulse-Sensor/Working_image.png" width="400">
