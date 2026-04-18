@@ -36,3 +36,15 @@ This project interfaces a **Pulse Sensor** and **DS18B20 Temperature Sensor** wi
 
 ## Usage
 Once uploaded, the ESP8266 will continuously read the **pulse rate** and **temperature** and send the data to **Arduino IoT Cloud**. The values can be viewed on the **cloud dashboard** in real-time.
+
+## Working Image
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/DS18B20_Pulse_Sensor/DS18B20_Pulse_Sensor.jpeg" width="400">
+    </td>
+    <td align="right">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/DS18B20_Pulse_Sensor/DS18B20_Pulse_Dashboard.png" width="400">
+    </td>
+  </tr>
+</table>
