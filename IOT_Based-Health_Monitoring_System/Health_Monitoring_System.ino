@@ -80,13 +80,13 @@ void updateLcd() {
     lcd.print(bpm);
     lcd.print(" BPM");
   }
-
-  // ======= Row 1: Temperature =======
+  
+// ======= Row 1: Temperature =======
   lcd.setCursor(0, 1);
   if (lastTempC == 0.0) {
-    lcd.print("Temp: --.- C");
+    lcd.print("Temp : --.- C");
   } else {
-    lcd.print("Temp: ");
+    lcd.print("Temp : ");
     lcd.print(lastTempC, 1);  // 1 decimal place e.g. 36.5
     lcd.print(" C");
   }
@@ -97,16 +97,6 @@ void setup() {
   delay(3000);
 
   // ======= LCD Init =======
-  // Wire.begin(D2, D1);  // SDA=D2, SCL=D1
-  // lcd.init();
-  // lcd.backlight();
-  // lcd.clear();
-  // lcd.setCursor(0, 0);
-  // lcd.print("Health Monitor");
-  // lcd.setCursor(0, 1);
-  // lcd.print("Hii Prince :)");
-  // lcd.print("...Starting");
-
      Wire.begin(D2, D1);  // SDA=D2, SCL=D1
      lcd.init();
      lcd.backlight();
@@ -121,7 +111,9 @@ void setup() {
      lcd.clear();
      lcd.setCursor(0, 0);
      lcd.print("Initializing....");
-     lcd.setCursor(0, 1);
+     delay(2000);
+     lcd.clear();
+     lcd.setCursor(0, 0);
      lcd.print("System_Ready");
      delay(1000);
 
@@ -221,5 +213,3 @@ void loop() {
     lastLcdUpdate = now;
   }
 }
-
-void onHeartRateChange() {}
