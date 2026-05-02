@@ -9,10 +9,10 @@ An IoT-based health monitoring system built on a custom PCB with onboard power r
 <table>
   <tr>
     <td align="left">
-      <img src="https://github.com/iprince10/Health_Monitoring_System/blob/main/Health_Monitoring_System.jpeg" width="400">
+      <img src="https://github.com/iprince10/NodeMCU-ESP8266/blob/main/Esp8266_Health_Monitoring_System_PCB_Edition/Esp8266_Health_Monitoring_System_PCB_Edition.jpeg" width="400">
     </td>
     <td align="right">
-      <img src="https://github.com/iprince10/Health_Monitoring_System/blob/main/Health_Monitoring_System_Dashboard.png" width="400">
+      <img src="https://github.com/iprince10/NodeMCU-ESP8266/blob/main/Esp8266_Health_Monitoring_System_PCB_Edition/Esp8266_Health_Monitoring_System_PCB_Edition.png" width="400">
     </td>
   </tr>
 </table>
