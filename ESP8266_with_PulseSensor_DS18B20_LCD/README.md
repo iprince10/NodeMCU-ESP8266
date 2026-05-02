@@ -1,4 +1,4 @@
-# ESP8266 with Pulse Sensor, DS18B20 and LCD
+# ESP8266 with Pulse Sensor, DS18B20, LCD and OLED
 
 ## Overview
 This project interfaces a **Pulse Sensor**, **DS18B20 Temperature Sensor**, **16x2_LCD-with_I2C_Module** as well as **0.96_Oled** with an **ESP8266 (NodeMCU)** and integrates it with **Arduino IoT Cloud**. The collected data is sent to the cloud for monitoring.
@@ -53,18 +53,18 @@ Once uploaded, the ESP8266 will continuously read the **pulse rate** and **tempe
 <table>
   <tr>
     <td align="left">
-      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/IOT_Based-Health_Monitoring_System/Health_Monitoring_System_With-Finger.jpeg" width="400">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/ESP8266_with_PulseSensor_DS18B20_LCD/ESP8266_with_PulseSensor_DS18B20_LCD_With-Finger.jpeg" width="400">
     </td>
     <td align="right">
-      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/IOT_Based-Health_Monitoring_System/Health_Monitoring_System_No-Finger.jpeg" width="400">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/ESP8266_with_PulseSensor_DS18B20_LCD/ESP8266_with_PulseSensor_DS18B20_LCD_No-Finger.jpeg" width="400">
     </td>
   </tr>
   <tr>
       <td align="left">
-      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/IOT_Based-Health_Monitoring_System/Health_Monitoring_System_0.96_Oled.jpeg" width="400">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/ESP8266_with_PulseSensor_DS18B20_LCD/ESP8266_with_PulseSensor_DS18B20_Oled.jpg" width="400">
     </td>
     <td align="right">
-      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/IOT_Based-Health_Monitoring_System/Health_Monitoring_System_Dashboard.png" width="400">
+      <img src="https://raw.githubusercontent.com/iprince10/NodeMCU-ESP8266/main/ESP8266_with_PulseSensor_DS18B20_LCD/ESP8266_with_PulseSensor_DS18B20_LCD_Dashboard.png" width="400">
     </td>
   </tr>
 </table>
