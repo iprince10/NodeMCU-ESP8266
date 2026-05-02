@@ -25,7 +25,7 @@ An IoT-based health monitoring system built on a custom PCB with onboard power r
 ## Related Repository
 
 This project is an upgraded version of the breadboard prototype available here:  
-[IOT Based Health Monitoring System (NodeMCU Breadboard Version)](https://github.com/iprince10/NodeMCU-ESP8266/tree/main/IOT_Based-Health_Monitoring_System)
+[ESP8266_with_PulseSensor_DS18B20_LCD](https://github.com/iprince10/NodeMCU-ESP8266/tree/main/ESP8266_with_PulseSensor_DS18B20_LCD)
 
 ### Key Differences from Breadboard Version
 
